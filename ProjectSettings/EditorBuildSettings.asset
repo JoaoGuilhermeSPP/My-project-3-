@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/bjj map game 1clean.unity
+    guid: 43e7f71e998f03245a0bb5e7142eafc5
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 3a75185fc7deb7e4193764ea2dbc7f7a, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
